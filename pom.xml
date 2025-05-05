@@ -11,7 +11,7 @@
 
     <properties>
         <springframework.version>6.2.6</springframework.version>
-        <jackson.version>2.18.3</jackson.version>
+        <jackson.version>2.19.0</jackson.version>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
