@@ -10,7 +10,7 @@
     <name>SpringMVCAngularJS</name>
 
     <properties>
-        <springframework.version>7.0.0</springframework.version>
+        <springframework.version>7.0.1</springframework.version>
         <jackson.version>2.20.1</jackson.version>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
